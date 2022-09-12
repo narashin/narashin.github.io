@@ -14,7 +14,11 @@ module.exports = {
     name: `신나라`,
     bio: {
       role: `개발자`,
-      description: ['새로운 것을 두려워하지 않는', '동료들을 먼저 생각하는', '낮고 서늘한 매일을 보내는'],
+      description: [
+        '새로운 것을 두려워하지 않는',
+        '동료들을 먼저 생각하는',
+        '낮고 서늘한 매일을 보내는',
+      ],
       thumbnail: 'shinnara.gif', // Path to the image in the 'asset' folder
     },
     social: {
